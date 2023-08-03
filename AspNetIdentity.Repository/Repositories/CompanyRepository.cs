@@ -7,7 +7,7 @@ namespace AspNetIdentity.Repository.Repositories
 {
     public class CompanyRepository : ICompanyRepository
     {
-        private readonly AspNetIdentityEntities db = new AspNetIdentityEntities();
+        //private readonly AspNetIdentityEntities db = new AspNetIdentityEntities();
 
         public Company Create(Company model)
         {
@@ -15,7 +15,7 @@ namespace AspNetIdentity.Repository.Repositories
             {
                // model.CreatedOn = DateTime.Now;
                // db.Companies.Add(model);
-                db.SaveChanges();
+               // db.SaveChanges();
                 return model;
             }
             catch (Exception ex)

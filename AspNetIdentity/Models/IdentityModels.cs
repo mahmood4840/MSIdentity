@@ -29,7 +29,7 @@ namespace AspNetIdentity.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser, IdentityRole, string, IdentityUserLogin, IdentityUserRole, IdentityUserClaim>//<IdentityUser, IdentityRole,int,IdentityUserLogin<int>,IdentityUserRole<int>,IdentityUserClaim<int>>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection")
+            : base("AspNetIdentityEntities")
         {
         }
 
