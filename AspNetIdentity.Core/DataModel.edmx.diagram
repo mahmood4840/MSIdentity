@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aab0939cffb446dd99a2c5b047677844" Name="Diagram1">
+        <EntityTypeShape EntityType="AspNetIdentityModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetIdentityModel.Role" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetIdentityModel.RoleClaim" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetIdentityModel.User" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetIdentityModel.UserLogin" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="AspNetIdentityModel.FK_dbo_RoleClaim_dbo_User_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetIdentityModel.FK_dbo_UserLogin_dbo_User_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetIdentityModel.UserRole" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="AspNetIdentityModel.Company" Width="1.5" PointX="3.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

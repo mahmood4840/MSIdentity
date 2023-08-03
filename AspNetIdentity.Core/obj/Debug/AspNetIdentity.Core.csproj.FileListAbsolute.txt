@@ -1,0 +1,14 @@
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\AspNetIdentity.Core.dll.config
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\AspNetIdentity.Core.dll
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\AspNetIdentity.Core.pdb
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\EntityFramework.dll
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\EntityFramework.xml
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\obj\Debug\AspNetIdentity.Core.csproj.AssemblyReference.cache
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\obj\Debug\AspNetIdentity.Core.csproj.CoreCompileInputs.cache
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\obj\Debug\AspNetIdentity.Core.csproj.CopyComplete
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\obj\Debug\AspNetIdentity.Core.dll
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\obj\Debug\AspNetIdentity.Core.pdb
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\AspNetIdentity.Utilities.dll
+D:\Practice\ASP_NET\code\AspNetIdentity\AspNetIdentity.Core\bin\Debug\AspNetIdentity.Utilities.pdb
