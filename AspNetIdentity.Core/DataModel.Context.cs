@@ -25,11 +25,5 @@ namespace AspNetIdentity.Core
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
-        public virtual DbSet<Role> Roles { get; set; }
-        public virtual DbSet<RoleClaim> RoleClaims { get; set; }
-        public virtual DbSet<User> Users { get; set; }
-        public virtual DbSet<UserLogin> UserLogins { get; set; }
-        public virtual DbSet<Company> Companies { get; set; }
     }
 }

@@ -54,14 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\ServiceResponse.cs" />
-    <Compile Include="Company.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="Contracts\Repositories\ICompanyRepository.cs" />
     <Compile Include="Contracts\Services\ICompanyService.cs" />
-    <Compile Include="C__MigrationHistory.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="DataModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -79,18 +73,6 @@
     </Compile>
     <Compile Include="Metadata\CompanyMetaData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Role.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="RoleClaim.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="User.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="UserLogin.cs">
-      <DependentUpon>DataModel.tt</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="DataModel.edmx">

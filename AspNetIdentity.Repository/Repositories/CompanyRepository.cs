@@ -13,8 +13,8 @@ namespace AspNetIdentity.Repository.Repositories
         {
             try
             {
-                model.CreatedOn = DateTime.Now;
-                db.Companies.Add(model);
+               // model.CreatedOn = DateTime.Now;
+               // db.Companies.Add(model);
                 db.SaveChanges();
                 return model;
             }
